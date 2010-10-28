@@ -1,0 +1,4 @@
+File:        autostamp.vim
+Description: Automatically updates last modified date in the header of the script.
+Maintainer:  Steve Francia <steve.francia@gmail.com> <http://spf13.com>
+Original Author: Breadman
